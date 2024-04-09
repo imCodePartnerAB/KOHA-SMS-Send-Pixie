@@ -1,0 +1,7 @@
+# Pixie example config
+
+url: https://app.pixie.se/api/v2/sms
+
+# Max 11 chars
+sender: Library
+bearer: Bearer <api key>
